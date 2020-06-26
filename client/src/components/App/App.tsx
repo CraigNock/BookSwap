@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import Global from '../GlobalStyles';
+import Global from '../../GlobalStyles';
 
 const App = () => {
   return (
